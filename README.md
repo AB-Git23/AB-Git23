@@ -9,6 +9,7 @@
 - 🌱 Improving backend engineering and scalable API architecture
 - 💡 Interested in backend systems, authentication, databases, and software architecture
 - ⚙️ Focused on Django, DRF, JWT Authentication, and API Development
+- ⚡ Backend-focused developer with additional experience in Laravel, Node.js, and modern web technologies
 
 ---
 
