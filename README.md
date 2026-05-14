@@ -17,7 +17,7 @@
 
 ### Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=python,django" />
+  <img src="https://skillicons.dev/icons?i=python,django,php,laravel,nodejs" />
 </p>
 
 ### Database
@@ -72,4 +72,4 @@ E-commerce backend with authentication, cart, and order management APIs.
 
 ## ⚡ Fun Fact
 
-I enjoy designing scalable backend systems and RESTful APIs.
+ Passionate about backend architecture, authentication systems, and building scalable APIs with Django & DRF.
